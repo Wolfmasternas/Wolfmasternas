@@ -1,33 +1,58 @@
-## Hi there 👋, my name is Nasim
-### A passionate frontend developer from India 🇮🇳
-###### ![A passionate frontend developer from India 🇮🇳](https://telegra.ph/file/71590b6f5176192abc360.jpg)
+## <img src="https://github.com/Wolfmasternas/Wolfmasternas/blob/main/gifs/Hi.gif" width="30px"> Hi I'am [Wolfmasternas](https://github.com/Wolfmasternas) Welcome To Github Profile
 
-
-Skills:  HTML / CSS / Python / C++
-
-- 🔭 I’m currently working on YouTube 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about programming 
-- 📫 How to reach me: technohall786@gmail.com 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Wolfmasternas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/nasimuddin.akunji.98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nasim_prr_401/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/channel/UCowRCbpyM4UKhjI7aZmOrkg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/+nSl01B_2PcdiMTFh)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Wolfmasternas&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Wolfmasternas/github-profile-trophy)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wolfmasternas&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Wolfmasternas/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfmasternas&exclude_repo=github-readme-stats,Wolfmasternas.github.io)](https://github.com/Wolfmasternas/github-readme-stats)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wolfmasternas)  
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wolfmasternas&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-![Profile views](https://gpvc.arturio.dev/Wolfmasternas)  
+* 📚 Student
 
 
 
+<p align="center">
+😎 𝐌𝐘 𝐒𝐎𝐂𝐈𝐀𝐋 𝐏𝐑𝐎𝐅𝐈𝐋𝐄𝐒 😎
+</p>
+<p align="center">
+<a href="https://www.instagram.com/nasim_prr_401"><img alt="Instagram" src="https://img.shields.io/badge/nasim_prr_401-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://t.me/wolfmasterxd"><img alt="Telegram" src="https://img.shields.io/badge/wolfmasterxd-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Wolfmasternas&theme=highcontrast" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Wolfmasternas&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfmasternas&layout=compact&theme=tokyonight" align="center">
+    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> </a>
+    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> </a> 
+    <a href="https://golang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="20px" height="20" /></a>
+    <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20px" height="20" /></a>
+</p>
 
 
 
+<p align="center">
+📊 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐑𝐀𝐅 📊
+</p>
+<p align="center">
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Wolfmasternas&custom_title=Contribution+Graph&theme=xcode" />
+<img src="https://github-readme-stats.vercel.app/api?username=Wolfmasternas&hide=prs,issues&show_icons=true&title_color=3E4405F&text_color=3E4405F&icon_color=3E4405F&bg_color=3E4405F" alt="SVR's github stats" />
+</p>
 
+
+  
+<p align="center">
+🏆 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒 🏆
+</p>
+<p align="center">
+<img width="50%" src="https://github-profile-trophy.vercel.app/?username=Wolfmasternas&theme=darkhub" />
+</p>
+
+<p align="center">
+𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐔𝐒
+</p>
+<p align="center">
+<a href="https://telegram.dog/wolfmasterxd"><img alt="telegram" src="https://img.shields.io/badge/Updates-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
+<a href="https://telegram.dog/wolfmasterxd"><img alt="telegram" src="https://img.shields.io/badge/Group-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
+
+
+<p align="center">
+ 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒 🧐
+</p>
+<p align="center">
+<img width="50%" src="https://gpvc.arturio.dev/Wolfmasternas" alt="Profile views" />
+</p>
