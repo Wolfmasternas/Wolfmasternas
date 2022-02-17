@@ -50,7 +50,7 @@
 <a href="https://telegram.dog/wolfmasterxd"><img alt="telegram" src="https://img.shields.io/badge/Updates-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
 <a href="https://telegram.dog/wolfmasterxd"><img alt="telegram" src="https://img.shields.io/badge/Group-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
 <a href="https://www.facebook.com/nasimuddin.akunji.98"><img alt="facebook" src="https://img.shields.io/badge/profile-2CA5E0.svg?&logo=facebook&logoColor=white"></a>
-<a href="https://youtube.com/channel/UCowRCbpyM4UKhjI7aZmOrkg"><img alt="youtube" src="https://img.shields.io/badge/channel-%23E4405F.svg?&logo=youtube&logoColor=red"></a>
+<a href="https://youtube.com/channel/UCowRCbpyM4UKhjI7aZmOrkg"><img alt="youtube" src="https://img.shields.io/badge/channel-FF3333.svg?&logo=youtube&logoColor=red"></a>
 
 
 <p align="center">
