@@ -1,8 +1,8 @@
-## <img src="https://github.com/Wolfmasternas/Wolfmasternas/blob/main/gifs/Hi.gif" width="30px"> Hi I'am [Wolfmasternas](https://github.com/Wolfmasternas) Welcome To My Github Profile
+## Hi I'am [Wolfmasternas](https://github.com/Wolfmasternas) Welcome To My Github Profile
 
 * 📚 Student
-
-
+ 
+* 🖥️ A passionate frontend developer from India 🇮🇳
 
 <p align="center">
 😎 𝐌𝐘 𝐒𝐎𝐂𝐈𝐀𝐋 𝐏𝐑𝐎𝐅𝐈𝐋𝐄𝐒 😎
