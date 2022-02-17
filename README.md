@@ -1,6 +1,6 @@
-# Hi there 👋, my name is Nasim
-#### A passionate frontend developer from India 🇮🇳
-![A passionate frontend developer from India 🇮🇳](https://telegra.ph/file/71590b6f5176192abc360.jpg)
+## Hi there 👋, my name is Nasim
+### A passionate frontend developer from India 🇮🇳
+###### ![A passionate frontend developer from India 🇮🇳](https://telegra.ph/file/71590b6f5176192abc360.jpg)
 
 
 Skills:  HTML / CSS / Python / C++
@@ -18,7 +18,7 @@ Skills:  HTML / CSS / Python / C++
 
 #### [![trophy](https://github-profile-trophy.vercel.app/?username=Wolfmasternas&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Wolfmasternas/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfmasternas)](https://github.com/Wolfmasternas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfmasternas&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Wolfmasternas/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wolfmasternas&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Wolfmasternas/github-readme-stats)
 
