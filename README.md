@@ -18,13 +18,13 @@ Skills:  HTML / CSS / Python / C++
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Wolfmasternas)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfmasternas)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfmasternas)](https://github.com/Wolfmasternas/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wolfmasternas&show_icons=true)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wolfmasternas&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Wolfmasternas/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wolfmasternas)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Wolfmasternas)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wolfmasternas&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Profile views](https://gpvc.arturio.dev/Wolfmasternas)  
 
