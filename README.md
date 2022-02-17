@@ -18,17 +18,12 @@ Skills:  HTML / CSS / Python / C++
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Wolfmasternas&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Wolfmasternas/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfmasternas=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Wolfmasternas/github-readme-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wolfmasternas&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Wolfmasternas/github-readme-stats)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wolfmasternas&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Wolfmasternas/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfmasternas&exclude_repo=github-readme-stats,Wolfmasternas.github.io)](https://github.com/Wolfmasternas/github-readme-stats)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wolfmasternas)  
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wolfmasternas&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Profile views](https://gpvc.arturio.dev/Wolfmasternas)  
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wolfmasternas&repo=github-readme-stats)](https://github.com/Wolfmasternas/github-readme-stats)
 
 
 
